@@ -11,5 +11,5 @@ A Self-Taught Software Engineer, still learning...
 
 ### Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhakhand&&show_icons=true&theme=tokyonight&line_height=35">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhakhand&hide=css,html&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=abhakhand&&show_icons=true&theme=tokyonight&line_height=35&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhakhand&hide=css,html&theme=tokyonight&layout=compact">
