@@ -1,13 +1,14 @@
-## Hi 👋, I'm Ashish
+## Hi there 👋
 
-A Self-Taught Software Engineer, still learning...
+I'm a Self-Taught Software Engineer, still learning...
 
 - 🔭 I’m working on myself
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I play Games(fps) a lot, mostly [Apex Legends](https://www.ea.com/games/apex-legends) 
+- ⚡ Fun fact: I play Games(FPS) a lot, mostly [Apex Legends](https://www.ea.com/games/apex-legends) 
+
 
 ### Github Stats
 
