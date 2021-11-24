@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm a Self-Taught Software Engineer, still learning...
+I'm a self-taught software engineer, still learning...
 
 - 🔭 I’m working on myself
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning many things
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
 - 😄 Pronouns: he/him/his
