@@ -1,14 +1,13 @@
 ## Hi there 👋
 
-I'm a self-taught software engineer, still learning...
+I'm a software engineer at [Yoro](https://helloyoro.com)
 
 - 🔭 I’m working on myself
-- 🌱 I’m currently learning many things
+- 🌱 I’m currently learning [Node.js](https://nodejs.org/en/)
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I play Games(FPS) a lot, mostly [Apex Legends](https://www.ea.com/games/apex-legends) 
-
+- ⚡ Fun fact: I play Cajon
 
 ### Github Stats
 
