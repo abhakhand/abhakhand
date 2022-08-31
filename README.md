@@ -3,10 +3,9 @@
 I'm a software engineer at [Yoro](https://helloyoro.com)
 
 - 🔭 I’m working on myself
-- 🌱 I’m currently learning [Node.js](https://nodejs.org/en/)
+- 🌱 I’m currently learning [Python](https://www.python.org/)
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I play Cajon
 
 ### Github Stats
