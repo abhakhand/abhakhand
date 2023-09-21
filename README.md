@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm a software engineer at [Yoro](https://helloyoro.com)
+I'm a software engineer
 
 - 🔭 I’m working on myself
-- 🌱 I’m currently learning [Python](https://www.python.org/)
+- 🌱 I’m currently learning [Node.js](https://nodejs.org/)
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
-- ⚡ Fun fact: I play Cajon
+- ⚡ Fun fact: My weekends are a symphony of code and controller clicks 🎮
 
 ### Github Stats
 
