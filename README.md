@@ -11,5 +11,5 @@ I'm a software engineer
 ### Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhakhand&&show_icons=true&theme=tokyonight&line_height=35&count_private=true">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=abhakhand&theme=dark&background=000000">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=abhakhand&theme=dark&background=1a1b26">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhakhand&hide=css,html&theme=tokyonight&layout=compact">
