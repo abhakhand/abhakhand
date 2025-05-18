@@ -2,8 +2,8 @@
 
 I'm a software engineer
 
-- 🔭 I’m working on myself
-- 🌱 I’m currently learning [Node.js](https://nodejs.org/)
+- 🔭 I’m working on [Fabrik](https://www.fabriktool.com)
+- 🌱 I’m currently learning [Python](https://www.python.org/)
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
 - ⚡ Fun fact: My weekends are a symphony of code and controller clicks 🎮
