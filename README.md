@@ -5,7 +5,7 @@ Software Engineer. I care about how apps feel to users and how code feels to dev
 ### What I'm up to
 
 - 🔨 Crafting scalable mobile experiences across **Flutter** and **native iOS**
-- 📦 Maintaining **[Fabrik](https://www.fabriktool.com)** — open-source Flutter packages that save teams days of setup
+- 📦 Maintaining **[Fabrik](https://www.fabriktool.com)** - Open-source Flutter packages that save teams days of setup
 - 📱 Working with **Flutter, Dart, Swift & SwiftUI**
 - 🌱 Exploring **Python, system design, and backend engineering**
 - 💬 Ask me about **Flutter, clean architecture, and scaling mobile apps**
@@ -14,7 +14,7 @@ Software Engineer. I care about how apps feel to users and how code feels to dev
 
 | Project | Description |
 |---------|-------------|
-| [Fabrik](https://github.com/abhakhand/fabrik) | Open-source Flutter package ecosystem - scaffolds production-ready features and enforces consistent architecture
+| [Fabrik](https://github.com/abhakhand/fabrik) | Open-source Flutter package ecosystem that scaffolds production-ready features and enforces consistent architecture
 
 ### Stats
 
